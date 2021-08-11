@@ -1,3 +1,7 @@
+'''
+Tkinter CLI
+Author: tinyCodersDen
+'''
 from tkinter import *
 dict1 = {}
 def button_clicked():
