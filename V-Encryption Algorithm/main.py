@@ -1,3 +1,7 @@
+'''
+V-Encryption Algorithm
+Author: tinyCodersDen
+'''
 import random
 import string
 from tkinter import *
