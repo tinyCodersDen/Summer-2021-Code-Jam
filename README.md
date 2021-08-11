@@ -12,4 +12,5 @@ This is a repository for the 2021 code Jam I created where you can see the proje
 * [The V-Encryption Algorithm!](https://github.com/tinyCodersDen/V-Encryption-Algorithm)
 * And more!
 
+You can also find all of these projects as directories over here!
 So these are the current projects I have made so far for 2021 Summer! Again, if you want to add a project, feel free to make a PR!
