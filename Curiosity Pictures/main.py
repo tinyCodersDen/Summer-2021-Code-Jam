@@ -1,3 +1,7 @@
+'''
+Curiosity Rover Pictures Website
+Author: tinyCodersDen
+'''
 from flask import *
 from nasapy import Nasa
 key = 'YOUR API KEY HERE'
