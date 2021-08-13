@@ -9,7 +9,8 @@ This is a repository for the 2021 code Jam I created where you can see the proje
 * [Py-Data-Structure](https://github.com/tinyCodersDen/py-data-structure)
 * [Curiosity Rover Pictures](https://github.com/tinyCodersDen/Curiosity-Pictures)
 * [Universal Translator](https://github.com/tinyCodersDen/Universal-Translator)
-* [The V-Encryption Algorithm!](https://github.com/tinyCodersDen/V-Encryption-Algorithm)
+* [The V-Encryption Algorithm](https://github.com/tinyCodersDen/V-Encryption-Algorithm)
+* Drowsiness classifier(In progress but another summer project!)
 * And more!
 
 You can also find all of these projects as directories over here!
