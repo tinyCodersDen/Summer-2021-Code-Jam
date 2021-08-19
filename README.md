@@ -12,6 +12,7 @@ This is a repository for the 2021 code Jam I created where you can see the proje
 * [The V-Encryption Algorithm](https://github.com/tinyCodersDen/V-Encryption-Algorithm)
 * Drowsiness classifier(In progress but another summer project!)
 * And more!
+Note: The finalized date for the 2021 Code Jam is August 20, 2021. We will discuss the deadlines for this project, and also when we will publish our final video!
 
 You can also find all of these projects as directories over here!
 So these are the current projects I have made so far for 2021 Summer! Again, if you want to add a project, feel free to make a PR!
