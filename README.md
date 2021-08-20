@@ -13,7 +13,7 @@ This is a repository for the 2021 code Jam I created where you can see the proje
 * Drowsiness classifier(In progress but another summer project!)
 * And more!
 
-Note: The finalized date for the 2021 Code Jam Conference is August 20, 2021. We will discuss the deadlines for this project, and also when we will publish our final video!
+Note: The finalized deadline for the Summer 2021 Code Jam submissions is August 22,2021. The final date for the release of the final video is yet to be discussed.
 
 You can also find all of these projects as directories over here!
 So these are the current projects I have made so far for 2021 Summer! Again, if you want to add a project, feel free to make a PR!
