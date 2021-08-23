@@ -13,7 +13,7 @@ This is a repository for the 2021 code Jam I created where you can see the proje
 * [Sketchup Pro](https://github.com/tinyCodersDen/Sketchup-Pro)
 * And more!
 
-Note: The 2021 Code Jam Video release date is yet to be discussed on the 2021 Video Release Conference. All we know so far is that the video will get released before September 7.
+Note: There will be 2 types of videos: one will be the best projects, the other will be all of the projects, also, both the videos will be released on August 31 maximum(meaning that August 31 is the "worst case" release date, the videos might get released even earlier.)
 
 You can also find all of these projects as directories over here!
 So these are the current projects I have made so far for 2021 Summer! Again, if you want to add a project, feel free to make a PR!
